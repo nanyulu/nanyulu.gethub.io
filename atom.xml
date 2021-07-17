@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>椭圆TODAY</title>
   
+  <subtitle>如果你是风</subtitle>
+  <link href="https://oval.love/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="https://oval.love/"/>
   <updated>2021-07-16T09:00:07.979Z</updated>
-  <id>http://example.com/</id>
+  <id>https://oval.love/</id>
   
   <author>
     <name>SINING</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/07/09/hello-world/"/>
-    <id>http://example.com/2021/07/09/hello-world/</id>
+    <link href="https://oval.love/2021/07/09/hello-world/"/>
+    <id>https://oval.love/2021/07/09/hello-world/</id>
     <published>2021-07-09T07:01:00.000Z</published>
     <updated>2021-07-16T09:00:07.979Z</updated>
     
